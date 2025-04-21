@@ -1,4 +1,1 @@
 Adding some content to the existing file.
-
-
-git revert change 2
